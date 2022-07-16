@@ -1,0 +1,6 @@
+[submodule "third-party/onnxruntime"]
+	path = third-party/onnxruntime
+	url = https://github.com/microsoft/onnxruntime.git
+[submodule "third-party/mmcv"]
+	path = third-party/mmcv
+	url = https://github.com/open-mmlab/mmcv.git

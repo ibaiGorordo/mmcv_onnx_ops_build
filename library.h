@@ -1,6 +1,0 @@
-#ifndef DEFORMCONV2D_LIBRARY_H
-#define DEFORMCONV2D_LIBRARY_H
-
-void hello();
-
-#endif //DEFORMCONV2D_LIBRARY_H
